@@ -1,10 +1,10 @@
 # Rock, Paper, Scissors, Lizard, Spock
 
-A game engine for the strategy game played and enjoyed by many. Written in C# and unit tested utilizing [XUnit](). 
+A game engine for the strategy game played and enjoyed by many. Written in C# and unit tested utilizing [XUnit](https://xunit.codeplex.com/). 
 
 ## Rules
 
-[!]() place image here
+![Rules](https://raw.githubusercontent.com/khalidabuhakmeh/RockPaperScissorsLizardSpock/master/rules.png, "rules")
 
 ## License
 
