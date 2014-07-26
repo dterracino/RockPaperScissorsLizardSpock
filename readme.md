@@ -4,7 +4,7 @@ A game engine for the strategy game played and enjoyed by many. Written in C# an
 
 ## Rules
 
-![Rules](https://raw.githubusercontent.com/khalidabuhakmeh/RockPaperScissorsLizardSpock/master/rules.png, "rules")
+![Rules](https://raw.githubusercontent.com/khalidabuhakmeh/RockPaperScissorsLizardSpock/master/rules.png)
 
 ## License
 
@@ -28,4 +28,4 @@ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.	
